@@ -1,0 +1,16 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\bin\Debug\net5.0\90-CalculoDeFactorial.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\bin\Debug\net5.0\90-CalculoDeFactorial.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\bin\Debug\net5.0\90-CalculoDeFactorial.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\bin\Debug\net5.0\90-CalculoDeFactorial.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\bin\Debug\net5.0\90-CalculoDeFactorial.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\bin\Debug\net5.0\ref\90-CalculoDeFactorial.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\bin\Debug\net5.0\90-CalculoDeFactorial.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\obj\Debug\net5.0\90-CalculoDeFactorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\obj\Debug\net5.0\90-CalculoDeFactorial.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\obj\Debug\net5.0\90-CalculoDeFactorial.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\obj\Debug\net5.0\90-CalculoDeFactorial.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\obj\Debug\net5.0\90-CalculoDeFactorial.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\obj\Debug\net5.0\ref\90-CalculoDeFactorial.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\obj\Debug\net5.0\90-CalculoDeFactorial.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\obj\Debug\net5.0\90-CalculoDeFactorial.genruntimeconfig.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\90-CalculoDeFactorial\obj\Debug\net5.0\90-CalculoDeFactorial.csproj.AssemblyReference.cache
